@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "79649001401",
+    "project_id": "alu-content-37e00",
+    "storage_bucket": "alu-content-37e00.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79649001401:android:dc4ae7c5b8f724694a7068",
+        "android_client_info": {
+          "package_name": "com.student.hello_world_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmqmHVPT_Ot1v3yVoDScLRl-qvv0D_0Vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
